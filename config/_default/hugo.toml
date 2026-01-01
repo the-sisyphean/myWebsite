@@ -21,6 +21,10 @@ enableEmoji = true
 [pagination]
   pagerSize = 100
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [imaging]
   anchor = 'Center'
 
