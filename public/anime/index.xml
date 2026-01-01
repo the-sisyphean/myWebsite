@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theSisyphean</title>
+    <link>//localhost:1313/anime/</link>
+    <description>Recent content on theSisyphean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sg.chaithanya@gmail.com (theSisyphean)</managingEditor>
+    <webMaster>sg.chaithanya@gmail.com (theSisyphean)</webMaster>
+    
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/anime/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Demon Slayer</title>
+      <link>//localhost:1313/anime/demon-slayer/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <author>sg.chaithanya@gmail.com (theSisyphean)</author>
+      <guid>//localhost:1313/anime/demon-slayer/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/anime/demon-slayer/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>One Piece</title>
+      <link>//localhost:1313/anime/one-piece/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <author>sg.chaithanya@gmail.com (theSisyphean)</author>
+      <guid>//localhost:1313/anime/one-piece/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/anime/one-piece/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

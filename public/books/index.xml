@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>theSisyphean</title>
+    <link>//localhost:1313/books/</link>
+    <description>Recent content on theSisyphean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sg.chaithanya@gmail.com (theSisyphean)</managingEditor>
+    <webMaster>sg.chaithanya@gmail.com (theSisyphean)</webMaster>
+    
+    <lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/books/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Monk Who Sold His Ferrari</title>
+      <link>//localhost:1313/books/monk-wshf/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <author>sg.chaithanya@gmail.com (theSisyphean)</author>
+      <guid>//localhost:1313/books/monk-wshf/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/books/monk-wshf/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
